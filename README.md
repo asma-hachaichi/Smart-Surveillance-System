@@ -40,7 +40,6 @@ Ensure that your Raspberry Pi is set up with the necessary software (OS, drivers
 Provide instructions on how to set up and install your smart surveillance system. Include steps for cloning the repository, installing dependencies, and any necessary configuration.
 
 ```bash
-# Example of installation steps
 git clone https://github.com/asma-hachaichi/Smart-Surveillance-System.git
 cd Smart-Surveillance-System
 pip install -r requirements.txt
